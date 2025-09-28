@@ -1,0 +1,10 @@
+fastapi
+python-dotenv
+openai
+langchain
+langchain-openai
+langchain-qdrant
+qdrant-client
+uvicorn
+gunicorn
+uvicorn-worker
