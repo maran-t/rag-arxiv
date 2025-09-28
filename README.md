@@ -62,6 +62,11 @@ uvicorn-worker
 - Returns: **Answer + Context + Sources**.
 
 ---
+## Sample vector in Qdrant
+
+<img width="1250" height="635" alt="image" src="https://github.com/user-attachments/assets/73569294-188a-4dfb-8791-2760a6ed650c" />
+
+---
 
 ## 🧪 Example Queries
 
