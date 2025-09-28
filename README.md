@@ -1,9 +1,9 @@
-# 🔍 RAG with Qdrant + LangChain + OpenAI
+# 🔍 RAG with Qdrant Cloud + LangChain + OpenAI
 
 This project demonstrates how to build a **Retrieval-Augmented Generation (RAG)** pipeline using:
 
 - [LangChain](https://www.langchain.com/) for document loading & search  
-- [Qdrant](https://qdrant.tech/) for vector storage  
+- [Qdrant Cloud](https://qdrant.tech/) for vector storage  
 - [OpenAI](https://platform.openai.com/) for embeddings & chat completions  
 
 It indexes a dataset of research abstracts (`arxiv_data.csv`) and allows semantic search + intelligent answers with full abstract support.
