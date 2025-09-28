@@ -11,9 +11,7 @@ It indexes a dataset of research abstracts (`arxiv_data.csv`) and allows semanti
 ---
 
 ## Try it now:
-```
-https://rag-app-553009859168.us-central1.run.app/
-```
+[The RAG arXiv](https://rag-app-553009859168.us-central1.run.app/)
 
 ## The application is consists of,
    - index.py, retreive.py - RAG indexing, retreival process
